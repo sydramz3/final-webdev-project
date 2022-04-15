@@ -1,0 +1,48 @@
+.mainbody{
+    left: 220px; 
+    right: 220px;
+    top: 580px; 
+    bottom: 400px;
+    position: absolute;
+    text-align: justify;
+}
+.leftmenu{
+    left: 5px;
+    width: 200px;
+    top: 580px;
+    bottom: 400px; 
+    position: absolute;
+    font-size: 15px;
+    text-align: left;
+}
+.rightmenu{
+    right: 25px;
+    width: 200px;
+    top: 580px;
+    bottom: 400px;
+    position: absolute;
+    font-size: 15px;
+    text-align: right;
+}
+.aboutmefooter{
+bottom: 5px;
+height: 10px;
+right: 5px;
+left: 5px;
+position: absolute;
+}
+.link{
+    text-decoration: underline;
+}
+title{
+    text-transform: uppercase;
+}
+.homestyle{
+   text-align: center;
+}
+h2{
+    text-decoration: underline;
+}
+h3{
+    font-style: italic;
+}

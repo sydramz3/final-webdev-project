@@ -1,0 +1,47 @@
+.navigation{
+    /* width: 80%;
+    margin-right: auto;
+    margin-left: auto; */
+    float: right;
+    position: relative;
+    padding-bottom: 15px;
+    padding-top: 15px; 
+    color: antiquewhite;
+
+}
+.tableau{
+    padding-top: 15px;
+    width:70%;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+.footer{
+    width: 80%;
+    margin-right: auto;
+    margin-left: auto;
+    font-size: 12px;
+    text-align: center;
+    text-decoration: underline;
+    color: antiquewhite;
+}
+.caption{
+    font-size: 18px;
+    text-align: center;
+}
+.copyright{
+    font-size: 12px;
+    font-style: italic;
+    text-decoration: none;
+    color: antiquewhite;
+    
+}
+a:visited{
+    color: antiquewhite;
+}
+.homebg{
+    background-image: url(https://cdn.pixabay.com/photo/2019/03/28/10/19/sunset-4086848_960_720.jpg);
+    background-position:center; 
+    background-size: cover;
+}
